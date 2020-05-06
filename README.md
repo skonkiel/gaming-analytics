@@ -6,9 +6,9 @@ This project analyzes data for a free, fictional fantasy video game, to find mea
 
 ## About the report
 ### Takeaways
-    * Male gamers and those in the 20-24 age group make up a higher percentage of game players, so overall they bring more revenue to the game.
-    * However, female gamers and people in the 35-39 age range spend more on average, meaning that if you can find a way to increase the number of those players, you might be able to increase profits more efficiently.
-    * Oathbreaker, Fiery Glass Crusader and Nirvana are among both the most popular and the most profitable items, making them good candidates for further marketing & promotion.
+* Male gamers and those in the 20-24 age group make up a higher percentage of game players, so overall they bring more revenue to the game.
+* However, female gamers and people in the 35-39 age range spend more on average, meaning that if you can find a way to increase the number of those players, you might be able to increase profits more efficiently.
+* Oathbreaker, Fiery Glass Crusader and Nirvana are among both the most popular and the most profitable items, making them good candidates for further marketing & promotion.
 
 * Total Number of Players
 * Purchasing Analysis 
